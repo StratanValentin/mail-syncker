@@ -1,0 +1,9 @@
+{
+  "name": "@mail-syncker/server",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {},
+  "author": "Valentin Stratan",
+  "license": "ISC",
+  "private": true
+}
